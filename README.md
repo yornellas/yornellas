@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yornellas
-- 👀 I’m studying to become a Full Stack dev.
-- 🌱 I’m currently learning Javascript and Java OOP.
+- 👀 I’m studying to become a Backend dev.
+- 🌱 I’m currently learning Java and JavaScript.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me ymf.ornellas@icloud.com (Linkedin: https://www.linkedin.com/in/yolandaornellas/)
 
