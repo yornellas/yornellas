@@ -1,15 +1,15 @@
 # Hello, World! 👋
 I'm Yolanda, and I'm currently studying to become a Java Backend dev.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yornellas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yornellas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to reach me:
 - 💻  https://www.linkedin.com/in/yolandaornellas/
 - 📬  ymf.ornellas@icloud.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/yornellas/demo-dao-jdbc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/yornellas/shop-order-java-composition)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/yornellas/cities-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=demo-dao-jdbc&theme=dark)](https://github.com/yornellas/demo-dao-jdbc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=shop-order-java-composition&theme=dark)](https://github.com/yornellas/shop-order-java-composition)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=cities-api&theme=dark)](https://github.com/yornellas/cities-api)
 
 
 <!---
