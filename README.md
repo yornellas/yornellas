@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @yornellas
-- 👀 I’m studying to become a Backend dev.
-- 🌱 I’m currently learning Java and JavaScript.
-- 💞️ I’m looking to collaborate on anything interesting.
-- 📫 How to reach me ymf.ornellas@icloud.com (Linkedin: https://www.linkedin.com/in/yolandaornellas/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yornellas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!---
 yornellas/yornellas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
