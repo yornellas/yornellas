@@ -10,7 +10,7 @@ I'm Yolanda, and I'm currently studying to become a Java Backend dev.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=demo-dao-jdbc&theme=dark)](https://github.com/yornellas/demo-dao-jdbc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=shop-order-java-composition&theme=dark)](https://github.com/yornellas/shop-order-java-composition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=cities-api&theme=dark)](https://github.com/yornellas/cities-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=cities-api&theme=dark)](https://github.com/yornellas/order-springboot-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=orer-springboor-java&theme=dark)](https://github.com/yornellas/order-springboot-java)
 
 
 <!---
