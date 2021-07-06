@@ -1,7 +1,7 @@
 # Hello, World! 👋
 I'm Yolanda, and I'm currently studying to become a Java Backend dev.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yornellas&layout=compact&theme=dark&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yornellas&layout=compact&theme=dark&langs_count=8)
 
 
 ## How to reach me:
