@@ -14,6 +14,7 @@ I'm Yolanda, and I'm currently studying to become a Java Backend dev.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=order-springboot-java&theme=dark)](https://github.com/yornellas/order-springboot-java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=estudos-HiringCoders-VTEX&theme=dark)](https://github.com/yornellas/estudos-HiringCoders-VTEX)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=projeto-livraria-HiringCoders-VTEX&theme=dark)](https://github.com/yornellas/projeto-livraria-HiringCoders-VTEX.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yornellas&repo=controle-ponto-acesso-springboot-rest&theme=dark)](https://github.com/yornellas/controle-ponto-acesso-springboot-rest.git)
 
 <!---
 yornellas/yornellas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
