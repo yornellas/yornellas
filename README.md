@@ -1,5 +1,6 @@
 # Hello, World! 👋
-I'm Yolanda, and I'm currently studying to become a Java Backend dev.
+I'm Yolanda, and I'm a Trainee Fullstack Developer.
+Iḿ currently studying Angular and Ruby on Rails.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yornellas&layout=compact&theme=dark&langs_count=8)
 
