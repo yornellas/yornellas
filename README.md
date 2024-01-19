@@ -1,5 +1,6 @@
 # Hello, World! 👋
-I'm Yolanda, and I'm a Frontend Developer, with Angular and Typescript
+I'm Yolanda, and I'm a Frontend Developer, mainly with Angular and Typescript.
+Currently I'm enhancing my portfolio with React studies and projects.
 
 ## How to reach me:
 - 💻  https://www.linkedin.com/in/yolandaornellas/
